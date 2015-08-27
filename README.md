@@ -1,0 +1,2 @@
+# cli
+Scaffolder CLI
