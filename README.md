@@ -1,4 +1,4 @@
-[![PyPI version](https://img.shields.io/pypi/v/ansible.svg)](https://pypi.python.org/pypi/scaffolder)
+[![PyPI version]()](https://pypi.python.org/pypi/scaffolder)
 
 # Scaffolder CLI
 
