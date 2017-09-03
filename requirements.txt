@@ -1,0 +1,8 @@
+PyYAML
+GitPython
+pyreadline
+ruamel.yaml
+progress
+prompt_toolkit
+setuptools
+watchdog==0.8.3
