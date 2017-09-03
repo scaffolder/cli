@@ -1,4 +1,4 @@
-[![PyPI version]()](https://pypi.python.org/pypi/scaffolder)
+[![PyPI version](https://badge.fury.io/py/scaffolder.svg)](https://pypi.python.org/pypi/scaffolder)
 
 # Scaffolder CLI
 
