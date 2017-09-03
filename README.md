@@ -6,8 +6,12 @@ This is an interactive command line tool for rapid prototyping and automatic cod
 
 ## Installation
 
-`sudo pip install scaffolder`
+`sudo -H pip install scaffolder`
 
 ## Usage
 
 `scaffolder create my-project`
+
+## Remove Scaffolder CLI
+
+`sudo -H pip uninstall scaffolder`
