@@ -13,6 +13,6 @@ This is an interactive command line tool for rapid prototyping and automatic cod
 
 `scaffolder create my-project`
 
-## Remove Scaffolder CLI
+## Uninstal
 
 `sudo -H pip uninstall scaffolder`
