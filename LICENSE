@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+# Copyright (c) 2015, Scaffolder, Ltd. - All Rights Reserved
+#
+# This file is part of Scaffolder CLI
+#
+# Scaffolder is NOT a free software and you can't redistribute it and/or modify
+# Unauthorized copying of this file, via any medium is strictly prohibited!
+# All source code is proprietary and confidential
+# Author: Goran Angelkovski <goran@scaffolder.io>
+#
+# Scaffolder is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+# Scaffolder CLI - interactive Python shell which allow apps development to be managed interactively
