@@ -17,3 +17,19 @@ This is an interactive command line tool for rapid prototyping and automatic cod
 ## Uninstall
 
 `sudo -H pip uninstall scaffolder`
+
+## Contributing
+
+1. Fork the project.
+2. Commit your changes.
+3. Create a new pull request on GitHub.
+
+## Contributors
+
+* Goran Angelkovski ([@bushono](https://github.com/bushono))
+
+## Copyright and License
+
+MIT License, see [LICENSE](LICENSE.md) for details.
+
+Copyright (c) 2015 [Scaffolder](https://www.scaffolder.io) and contributors.
