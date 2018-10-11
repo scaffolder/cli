@@ -7,7 +7,7 @@ setup(
     author_email = "goran@scaffolder.io",
     description = "High level project and application modeling tool based on the rules of Scaffolder DSL which utilizes Scaffolder aPaaS to generate all source code, configuration and testing files.",
     keywords = ['code generator', 'scaffolding', 'automatic coding'],
-    license = "",
+    license = "MIT",
     url = "https://scaffoder.io",
     scripts = ['scaffolder'],
     packages = find_packages(),
