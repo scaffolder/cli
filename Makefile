@@ -2,6 +2,7 @@
 .PHONY: install
 
 install:
+	sudo -H pip install scaffolder
 
 build:
 	edit snap/snapcraft.yaml and increase version
