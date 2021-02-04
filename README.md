@@ -16,6 +16,9 @@ or
 ## Usage
 
 `scaffolder create my-project`
+`scaffolder add app`
+`scaffolder build`
+`scaffolder run`
 
 ## Uninstall
 
