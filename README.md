@@ -17,6 +17,12 @@ or
 
 `scaffolder create my-project`
 
+`scaffolder add app`
+
+`scaffolder build`
+
+`scaffolder run`
+
 ## Uninstall
 
 `sudo -H pip uninstall scaffolder`
