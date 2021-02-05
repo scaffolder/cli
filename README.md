@@ -15,7 +15,7 @@ or
 
 ## Usage
 
-`scaffolder create my-project`
+`scaffolder create project`
 
 `scaffolder add app`
 
